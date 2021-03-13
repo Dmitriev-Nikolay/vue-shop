@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div id="app">
+        <header>
+            <div class="logo">vue-shop</div>
+            <Search ref="search"></Search>
+            <Cart ref="basket"></Cart>
+        </header>
+        <main>
+            <Products ref="catalog"></Products>
+            <Error ref="error"></Error>
+        </main>
+        <footer class="footer_main">
+            <Basement></Basement>
+        </footer>
+    </div>
+    <script src="https://unpkg.com/vue@next"></script>
+    <script type="module" defer src="main.js"></script>
+
+</body>
+
+</html>

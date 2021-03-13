@@ -1,0 +1,32 @@
+[
+  {
+    "id_product": 124,
+    "product_name": "Клавиатура",
+    "price": 1600
+  },
+  {
+    "id_product": 457,
+    "product_name": "Геймпад",
+    "price": 3000
+  },
+  {
+    "id_product": 125,
+    "product_name": "Телефон",
+    "price": 60000
+  },
+  {
+    "id_product": 458,
+    "product_name": "Телевизор",
+    "price": 30000
+  },
+  {
+    "id_product": 126,
+    "product_name": "Фотоаппарат",
+    "price": 25500
+  },
+  {
+    "id_product": 459,
+    "product_name": "Планшет",
+    "price": 46900
+  }
+]
